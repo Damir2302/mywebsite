@@ -1323,19 +1323,20 @@ p {
 .contact__info-item {
     display: flex;
     align-items: center;
-    margin-bottom: .75rem
+    margin-bottom: .75rem;
 }
 
 .contact__info-item:last-child {
-    margin-bottom: 0
+    margin-bottom: 0;
 }
 
 .contact__info-icon {
-    margin-right: .75rem
+    margin-right: .75rem;
+    width: 25px;
 }
 
 .form__group {
-    margin-bottom: 1.8rem
+    margin-bottom: 1.8rem;
 }
 
 .form__label {
