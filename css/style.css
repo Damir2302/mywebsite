@@ -416,6 +416,10 @@ p {
     transition: transform .2s linear
 }
 
+.social__link img {
+    width: 40px;
+}
+
 .social__link:hover {
     transform: translateY(-5px)
 }
